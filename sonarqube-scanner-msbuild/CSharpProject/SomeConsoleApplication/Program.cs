@@ -17,6 +17,10 @@ namespace SomeConsoleApplication
 
             Console.ReadKey();
         }
+        
+        public void UnUsed()
+        {
+        }
 
         public static bool AlwaysReturnsTrue()
         {
